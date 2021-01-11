@@ -1,9 +1,9 @@
 
-role : Team Leader
-Company : API Hacks
-dates : 2020
+- role: Team Leader
+  company: API Hacks
+  dates: 2020
 
-role : Member
-Company : LearnYuva Hackathon
-dates : 2020
+- role : Member
+  company : LearnYuva Hackathon
+  dates : 2020
 
